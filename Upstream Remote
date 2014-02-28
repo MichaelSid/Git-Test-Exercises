@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words.
+An upstream remote points to the original repo that you previously forked, as opposed to an origin remote that simply points to your own GitHub repo (the clone). So the upstream remote allows you to keep track of changes in the original repo.
